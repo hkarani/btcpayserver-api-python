@@ -6,9 +6,9 @@ Bitcoin without middlemen.
 With BTCPayServer's API, you can customize how you wish to implement BTCPayServer in your project. 
 
 Some use cases for BTCPayServer API in your 
-  -Ecommerce store 
-  -Accept donations for charity
-  -In-game payments
+    *Ecommerce stores 
+    *Donations websites for charity
+    *In-game payments
 
 If you're using Python in your project, you'll find these common implementations of BTCPayServer useful. They will help you build quickly without having to
 figure all the nuts and bolts by yourself.
